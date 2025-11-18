@@ -1,10 +1,11 @@
 # Site settings
-title: Professional Portfolio
-name: Your Name
-email: your.email@example.com
+title: Marcus J. Davidson - Professional Portfolio
+name: Marcus J. Davidson
+email: mdavidson434@gmail.com
 description: >-
-  Professional portfolio and blog showcasing my experience, 
-  skills, and insights in technology and development.
+  Seasoned professional with expertise in AI platform development, 
+  digital transformation, strategic advisory, and financial markets. 
+  Currently driving AI industrialization at DBS Bank.
 
 # Build settings
 markdown: kramdown
