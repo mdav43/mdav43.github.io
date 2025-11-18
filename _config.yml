@@ -1,0 +1,56 @@
+# Site settings
+title: Professional Portfolio
+name: Your Name
+email: your.email@example.com
+description: >-
+  Professional portfolio and blog showcasing my experience, 
+  skills, and insights in technology and development.
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# URL settings
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://mdav43.github.io" # the base hostname & protocol for your site
+
+# Navigation
+header_pages:
+  - index.md
+  - about.md
+  - posts.md
+
+# Collections
+collections:
+  posts:
+    output: true
+    permalink: /posts/:year/:month/:day/:title/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+
+# Exclude from processing
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - README.md
