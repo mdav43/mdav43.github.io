@@ -12,16 +12,15 @@ title: Home
   <section class="intro-section">
     <h2>Driving AI Industrialization at Scale</h2>
     <p>
-      As a seasoned professional with a proven track record spanning consulting, banking, and private equity, 
-      I bring a unique combination of strategic thinking, analytical expertise, and leadership to complex challenges. 
-      Currently spearheading the development of DBS Bank's AI platform (ALAN), enabling fast and large-scale AI deployment 
-      that has been critical to DBS achieving recognition as the #1 Digital Bank (Euromoney 2023).
+      Strategic technology leader with proven impact across banking, private equity, and advisory sectors. 
+      Currently architecting DBS Bank's enterprise AI platform (ALAN), enabling large-scale deployment that 
+      has been instrumental in DBS's recognition as the #1 Digital Bank (Euromoney 2023).
     </p>
     <p>
-      With expertise across financial markets, data analysis, project management, and stakeholder engagement, 
-      I excel in fast-paced environments and thrive on driving growth and innovation. My career spans proprietary 
-      trading at Macquarie Bank, strategic advisory and capital raising at Pottinger, private equity operations consulting, 
-      and digital transformation at DBS—demonstrating consistent ability to deliver impact across diverse domains.
+      Track record of delivering transformational outcomes: from closing $100M+ capital transactions and 
+      managing $350M trading books to leading 600+ member technical communities. Expertise spans AI platform 
+      development, digital transformation, financial markets, and strategic M&A—consistently translating 
+      complex challenges into measurable business value.
     </p>
     <div class="cta-buttons">
       <a href="{{ '/about' | relative_url }}" class="btn btn-primary">View Full Experience</a>
