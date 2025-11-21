@@ -13,8 +13,8 @@ title: Home
     <h2>Driving AI Industrialization at Scale</h2>
     <p>
       Strategic technology leader with proven impact across banking, private equity, and advisory sectors. 
-      Currently architecting DBS Bank's enterprise AI platform (ALAN), enabling large-scale deployment that 
-      has been instrumental in DBS's recognition as the #1 Digital Bank (Euromoney 2023).
+      Currently spearheading ALAN, a core piece of DBS AI Industrialization efforts that enables governance 
+      at scale across the enterprise, instrumental in DBS's recognition as the #1 Digital Bank (Euromoney 2023).
     </p>
     <p>
       Track record of delivering transformational outcomes: from closing $100M+ capital transactions and 
