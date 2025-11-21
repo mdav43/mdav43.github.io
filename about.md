@@ -23,7 +23,7 @@ permalink: /about/
       <h3>Project Manager, Transformation Group</h3>
       <p class="company-period">DBS Bank, Singapore • 2022 - Present</p>
       <ul>
-        <li>Architected and delivered enterprise AI platform (ALAN) enabling large-scale deployment across Asia's #1 Digital Bank (Euromoney 2023)</li>
+        <li>Spearheading ALAN, a core piece of DBS AI Industrialization efforts that enables governance at scale across the enterprise for Asia's #1 Digital Bank (Euromoney 2023)</li>
         <li>Led 600+ member data community, driving organizational AI capability through strategic learning initiatives</li>
         <li>Orchestrated cross-divisional transformation projects, reducing operational risk while accelerating delivery timelines</li>
       </ul>
