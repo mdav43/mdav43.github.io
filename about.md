@@ -43,7 +43,7 @@ permalink: /about/
       <h3>Vice President</h3>
       <p class="company-period">Pottinger, Sydney, Australia • 2017 - 2019</p>
       <ul>
-        <li>Closed $100M+ joint venture with Canadian Solar for Australia's largest solar pipeline (1.4GWDC), assets later acquired by Berkshire Hathaway</li>
+        <li>Closed $100M+ joint venture with Canadian Solar for Australia's largest solar pipeline (1.4GWDC)</li>
         <li>Directed strategic expansion roadmap for ASX-listed construction firm targeting USA and EMEA markets</li>
         <li>Led 12-month innovation program including global IP analysis across 1,000+ companies</li>
       </ul>
@@ -65,7 +65,7 @@ permalink: /about/
       <ul>
         <li>Managed trading strategies for highly profitable $350M global book spanning Hong Kong, Europe, and USA</li>
         <li>Executed sophisticated arbitrage strategies including relative value, dual listing, and statistical arbitrage</li>
-        <li>Developed high-frequency trading algorithms and managed exotic options portfolio through GFC volatility</li>
+        <li>Developed high-frequency trading algorithms and managed exotic options portfolio through Global Financial Crisis volatility</li>
       </ul>
     </div>
 
