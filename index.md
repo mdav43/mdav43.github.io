@@ -32,20 +32,28 @@ title: Home
     <h2>Core Expertise</h2>
     <div class="highlights-grid">
       <div class="highlight-item">
-        <h3>🤖 AI Platform Development</h3>
-        <p>Leading DBS AI Industrialization efforts with enterprise-scale deployment capabilities</p>
+        <h3>Product & Program Leadership</h3>
+        <p>Driving complex platforms and multi-release roadmaps end-to-end, ensuring delivery, adoption, and stakeholder alignment.</p>
       </div>
       <div class="highlight-item">
-        <h3>💼 Strategic Advisory</h3>
-        <p>Capital raising, M&A transactions, and growth strategy across infrastructure and technology sectors</p>
+        <h3>Strategic Advisory & Commercial Strategy</h3>
+        <p>Shaping growth strategies, investment theses, and M&A execution across sectors and markets.</p>
       </div>
       <div class="highlight-item">
-        <h3>📊 Financial Markets</h3>
-        <p>Deep expertise from proprietary trading, structured finance, and private equity operations</p>
+        <h3>Stakeholder Influence & Executive Communication</h3>
+        <p>Building trust across senior leaders, technical teams, and clients with clear, concise decision-ready communication.</p>
       </div>
       <div class="highlight-item">
-        <h3>👥 Leadership & Stakeholder Management</h3>
-        <p>Developing teams, managing cross-divisional priorities, and leading data communities of 600+ staff</p>
+        <h3>Data, Governance & Applied AI Enablement</h3>
+        <p>Using analytical methods and practical AI implementation to improve workflows, enhance decision-making, and scale operational impact whilst balancing risk (regulatory & operational)</p>
+      </div>
+      <div class="highlight-item">
+        <h3>Financial & Deal Structuring Expertise</h3>
+        <p>Deep experience in valuation, capital raising, negotiations, and transaction management across PE, banking, and infrastructure.</p>
+      </div>
+      <div class="highlight-item">
+        <h3>Cross-Functional Team Leadership</h3>
+        <p>Leading diverse teams, managing priorities, and fostering high-engagement communities and collaborative cultures.</p>
       </div>
     </div>
   </section>
